@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Applet/Applet.iml" filepath="$PROJECT_DIR$/Applet/Applet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes &amp; OOP/Classes &amp; OOP.iml" filepath="$PROJECT_DIR$/Classes &amp; OOP/Classes &amp; OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Collections/Collections.iml" filepath="$PROJECT_DIR$/Data Structures/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Data Structures.iml" filepath="$PROJECT_DIR$/Data Structures/Data Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File IO/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/File IO/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/File IO/File IO.iml" filepath="$PROJECT_DIR$/File IO/File IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaBase.iml" filepath="$PROJECT_DIR$/.idea/JavaBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Data Structures/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structures/Networking/Networking.iml" filepath="$PROJECT_DIR$/Data Structures/Networking/Networking.iml" />
+    </modules>
+  </component>
+</project>

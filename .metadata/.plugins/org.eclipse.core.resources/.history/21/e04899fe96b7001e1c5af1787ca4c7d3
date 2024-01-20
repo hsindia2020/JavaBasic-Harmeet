@@ -1,0 +1,6 @@
+package sonar;
+
+public interface Character01
+{	
+	public void ReduceHealth(int damage);
+}
